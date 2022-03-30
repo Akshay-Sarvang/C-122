@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+}
+span{
+    font-size: 12px;
+    color: aqua;
+}
+canvas{
+    background: lightskyblue;
+    border-radius: 20px;
+}
